@@ -1,7 +1,7 @@
 A Forum web app that allows to create posts and upvote and downvote the posts present.
 Tech stack:
-## ReactJs
-## Firebase
+**-ReactJs
+**-Firebase
 
 
 ## Available Scripts
