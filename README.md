@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+A Forum web app that allows to create posts and upvote and downvote the posts present.
+Tech stack:
+## ReactJs
+## Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
